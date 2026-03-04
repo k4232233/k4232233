@@ -2,7 +2,7 @@
 
 <img align="right" style="float: right; width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="Soyorin" src="https://img.20011031.xyz/MyGo!!!!!_Kaisou_Soyo.nst.png" />
 
-> 恭喜你发现了一个新的废物  
+> 本人才疏学浅  
 
 > 欢迎访问我的博客：<a href="https://blog.akiei.cn" target="_blank">绘衣のBlog</a> 
 
