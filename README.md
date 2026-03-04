@@ -63,6 +63,16 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
+**AI**
+
+<p>
+  <!-- Ai大模型 -->
+  <img alt="Claude" src="https://img.shields.io/badge/-Claude-4B32C3?style=flat-square&logo=claude&logoColor=white"  />
+  <img alt="Gemini" src="https://img.shields.io/badge/-Gemini-8E45CD?style=flat-square&logo=google&logoColor=white"  />
+  <!-- Ai编程助手 -->
+  <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-7B7B7B?style=flat-square&logo=cursor&logoColor=white"  />
+</p>
+
 **Other**
 
 <p>
