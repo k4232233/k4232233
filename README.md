@@ -1,4 +1,4 @@
-<a href="https://www.akiei.cn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&width=435&lines=I+am+the+silent+one." alt="Typing SVG" /></a>
+<a href="https://www.akiei.cn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&width=435&color=EE3F4D&lines=I+am+the+silent+one." alt="Typing SVG" /></a>
 
 <img align="right" style="float: right; width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="Soyorin" src="https://img.20011031.xyz/MyGo!!!!!_Kaisou_Soyo.nst.png" />
 
