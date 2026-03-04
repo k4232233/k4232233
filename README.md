@@ -38,7 +38,7 @@
 
 <p>
   <!-- 语言 -->
-  <img alt="Java" width="50"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" />
+  <img alt="Java" width="40"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
