@@ -1,4 +1,4 @@
-<a href="https://www.akiei.cn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+the+silent+one." alt="Typing SVG" /></a>
+<a href="https://www.akiei.cn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I+am+the+silent+one." alt="Typing SVG" /></a>
 
 <img align="right" style="float: right; width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="Soyorin" src="https://img.20011031.xyz/MyGo!!!!!_Kaisou_Soyo.nst.png" />
 
@@ -35,7 +35,7 @@
 
 <p>
   <!-- 语言 -->
-  <img alt="Java" width="40"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white"  />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <!-- 后端框架 -->
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
